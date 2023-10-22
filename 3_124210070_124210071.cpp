@@ -1,6 +1,6 @@
 /*	Final Project Praktikum Algoritma Lanjut dan Struktur Data
 		"Toko Kue"	
-	Anastasia Meza Hida Vignesvara - 124210070
+
 	Athaya Rizqia Fitriani         - 124210071 
 */
 #include <ctime>
